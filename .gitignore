@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.direnv/
+.envrc
+
+# Solutions for the contests
+contests/*
+practices/*
+!contests/README.md
+!practices/README.md
