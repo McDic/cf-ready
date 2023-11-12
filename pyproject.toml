@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cp-ready"
+version = "0.0.1"
+authors = [{ name = "Minsung Kim", email = "spongbob9876@naver.com" }]
+description = "A library dedicated to competitive programming platforms"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Development Status :: 1 - Planning",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: Implementation :: CPython",
+]
+
+[project.urls]
+"Repository" = "https://github.com/McDic/cp-ready"
+"Blog" = "https://blog.mcdic.net"

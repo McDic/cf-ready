@@ -11,3 +11,9 @@ contests/*
 practices/*
 !contests/README.md
 !practices/README.md
+
+# Testlib
+testlib/
+
+# McDic contents
+McDicCup4
